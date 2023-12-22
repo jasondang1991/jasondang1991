@@ -5,7 +5,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jason Dang
 ==================================================================================================================================
 
-Web + App Developer
+Software Engineer
 -------------------
 
 I've have been working for 8 years in software engineering and I’m interested in technology stuff, UX/UI Creative and also music...

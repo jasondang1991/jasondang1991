@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Jason Dang</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
-<img align="right" alt="Coding" width="350" style="border-radius:50%" src="https://media0.giphy.com/media/6heBQSjt2IoA8/giphy.gif?cid=ecf05e474mdspx0v2fvvzna7zn5ziadvoc5ogdhoj0ttobrr&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
+<img align="right" alt="Coding" width="370" src="https://media2.giphy.com/media/IHkILvQZ94BxMdBHp0/giphy.gif?cid=ecf05e47orhxc103ha3ksgi5w6qhxli7ef99ef8lzhf3i874&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasondang91&label=Profile%20views&color=0e75b6&style=flat" alt="jasondang91" /> </p>
 
